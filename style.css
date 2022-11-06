@@ -75,6 +75,8 @@ input:focus {
 .user-info ul li {
     display: flex;
     align-items: center;
+    border-spacing: 33px;
+    flex-direction: column;
 }
 
 .user-info ul li strong {
